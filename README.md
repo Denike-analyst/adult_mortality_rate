@@ -1,8 +1,8 @@
-# adult_mortality_rate
+# Analysis on Adult Mortality rate between 2019 and 2022
 
 ### Project Overview
 
-This project aims to get insights from datesets on adult mortality rate from different countries and how it relates to their Population and GDP. Analyzing this datasets gives insights on the impact of health expenditure on adult mortality rate.
+This project aims to get insights from datesets on adult mortality rate from different countries between 2019 and 2022 and how it relates to their Population and GDP. Analyzing this datasets gives insights on the impact of health expenditure on adult mortality rate.
 
 ### Data sources
 
