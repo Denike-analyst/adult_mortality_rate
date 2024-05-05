@@ -20,11 +20,4 @@ These key questions were answered by analyzing these datasets:
 
 - Does increased spending on healthcare lead to a decrease in adult deaths?
 - Do wealthier countries spend more on healthcare?
-  
-GROUP BY Continent
 
---Showing the relation between health expenditure and crude death rate between 2019, 2020, and 2021
-SELECT h.Countries, CEILING(h.Year_2019) AS hexp_19, CEILING(h.Year_2020) AS hexp_20, CEILING(h.Year_2021) AS hexp_21, 
-CEILING(c.Year_2019) AS dr_19, CEILING(c.Year_2020) AS dr_19, CEILING(c.Year_2021) AS dr_2021
-FROM health_expenditure h INNER JOIN crude_death_rate c
-ON h.Countries = c.Countries
