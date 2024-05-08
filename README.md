@@ -12,8 +12,7 @@ Multiple tables datasets were used to do this analysis. These datasets include:
 
 - Excel (Data cleaning)
 - SQL (Data manipulation)
-- Powerbi (visualization)
-
+  
 ### Exploratory Data Analysis
 
 These key questions were answered by analyzing these datasets:
