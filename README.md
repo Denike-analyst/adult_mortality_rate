@@ -20,3 +20,5 @@ These key questions were answered by analyzing these datasets:
 - Does increased spending on healthcare lead to a decrease in adult deaths?
 - Do wealthier countries spend more on healthcare?
 
+### Data Manipulation
+As earlier stated, this datasets was manipulated using sql. The results from the manipulation of the datasets gave insights on the analysis. The files containing the manipulation can be located [Here](Adult_mortality_rate.sql)
