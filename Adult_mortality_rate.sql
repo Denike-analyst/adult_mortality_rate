@@ -43,7 +43,7 @@ SELECT Continent, CEILING(SUM(AMR_female)) AS total_female, CEILING(SUM(AMR_male
 FROM Adult_mortality_rate
 GROUP BY Continent
 
---The result from this query shows the relation between health expenditure and crude death rate between 2019, 2020, and 2021 for all the countries\
+--The result from this query shows the relation between health expenditure and crude death rate between 2019, 2020, and 2021 for all the countries
       
 SELECT h.Countries, CEILING(h.Year_2019) AS hexp_19, CEILING(h.Year_2020) AS hexp_20, CEILING(h.Year_2021) AS hexp_21, 
 CEILING(c.Year_2019) AS dr_19, CEILING(c.Year_2020) AS dr_19, CEILING(c.Year_2021) AS dr_2021
