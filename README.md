@@ -6,12 +6,12 @@ This project aims to get insights from datesets on adult mortality rate from dif
 
 ### Data sources
 
-Multiple tables datasets were used to do this analysis. These datasets include: 
+Multiple tables datasets were used to do this analysis. These datasets include:
 
 ### Tools
 
 - Excel (Data cleaning)
-- SQL (Data manipulation)
+- SQL (Data Analysis)
   
 ### Exploratory Data Analysis
 
@@ -20,5 +20,5 @@ These key questions were answered by analyzing these datasets:
 - Does increased spending on healthcare lead to a decrease in adult deaths?
 - Do wealthier countries spend more on healthcare?
 
-### Data Manipulation
-As earlier stated, this datasets was manipulated using sql. The results from the manipulation of the datasets gave insights on the analysis. The files containing the manipulation can be located [Here](Adult_mortality_rate.sql)
+### Insights
+As earlier stated, these datasets were analyzed using sql. The results from the Analyzing the datasets gave insights. The files containing the analysis can be located [Here](Adult_mortality_rate.sql)
